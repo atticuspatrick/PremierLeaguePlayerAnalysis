@@ -1,5 +1,5 @@
 # Atticus Patrick and Owen Patrick
-# CS 021 Final Project
+
 # This program is a tool that can be used to analyze Premier League soccer player data from 2014/15 to 2018/19.
 # The data points that this programs reads in come from a soccer statistics website Understat.com. We have created text
 # files unique to 20 different players with data points extracted from this website to be read into the program. The
